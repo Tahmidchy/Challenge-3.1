@@ -1,0 +1,154 @@
+/* Google Fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;700&family=Lexend+Deca&display=swap');
+
+/* Style section */
+
+.container>.header {
+    margin: 80px 280px auto;
+}
+
+
+/* sedan section */
+
+.card-sedan {
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 450px;
+    margin: auto;
+    text-align: center;
+    background-color: hsl(31, 77%, 52%);
+    float: left;
+}
+
+.card-sedan>h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    text-align: left;
+    width: 75%;
+    margin: 35px auto;
+    padding: 0 auto;
+    color: hsl(0, 0%, 95%);
+}
+
+.card-sedan>p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.8rem;
+    text-align: left;
+    width: 75%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+
+/* Suv Section */
+
+.card-suv {
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 450px;
+    margin: auto;
+    text-align: center;
+    background-color: hsl(184, 100%, 22%);
+    float: left;
+}
+
+.card-suv>h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    text-align: left;
+    width: 75%;
+    margin: 35px auto;
+    padding: 0 auto;
+    color: hsl(0, 0%, 95%);
+}
+
+.card-suv>p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.8rem;
+    text-align: left;
+    width: 75%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+
+/* Luxary Section */
+
+.card-luxury {
+    box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 450px;
+    margin: auto;
+    text-align: center;
+    background-color: hsl(179, 100%, 13%);
+    float: left;
+}
+
+.card-luxury>h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+    text-align: left;
+    width: 75%;
+    margin: 35px auto;
+    padding: 0 auto;
+    color: hsl(0, 0%, 95%);
+}
+
+.card-luxury>p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.8rem;
+    text-align: left;
+    width: 75%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.header-photo_icon {
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+/*Button 
+
+.btn {
+    background: #f5690c;
+    background-image: -webkit-linear-gradient(top, #f5690c, #f57c11);
+    background-image: -moz-linear-gradient(top, #f5690c, #f57c11);
+    background-image: -ms-linear-gradient(top, #f5690c, #f57c11);
+    background-image: -o-linear-gradient(top, #f5690c, #f57c11);
+    background-image: linear-gradient(to bottom, #f5690c, #f57c11);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    border: solid #f26113 2px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #f5710c;
+    background-image: -webkit-linear-gradient(top, #f5710c, #f77111);
+    background-image: -moz-linear-gradient(top, #f5710c, #f77111);
+    background-image: -ms-linear-gradient(top, #f5710c, #f77111);
+    background-image: -o-linear-gradient(top, #f5710c, #f77111);
+    background-image: linear-gradient(to bottom, #f5710c, #f77111);
+    text-decoration: none;
+}
+*/
